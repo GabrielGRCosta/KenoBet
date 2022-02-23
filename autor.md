@@ -1,0 +1,6 @@
+- Nome: Gabriel Galvão
+- Email: galvaogabriel890@gmail.com
+- Turma: T01
+- Nome: Davi Fausto
+- Email: davi.fausto@hotmail.com
+- Turma: T01
